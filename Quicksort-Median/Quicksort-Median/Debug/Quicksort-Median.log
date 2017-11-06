@@ -1,0 +1,5 @@
+﻿  quickmedian.cpp
+z:\dokumente\sose2017\praktikum programmieren\aufgabe 5\quicksort-median\quicksort-median\quickmedian.cpp(93): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+z:\dokumente\sose2017\praktikum programmieren\aufgabe 5\quicksort-median\quicksort-median\quickmedian.cpp(105): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Quicksort-Median.vcxproj -> Z:\Dokumente\SOSE2017\Praktikum Programmieren\Aufgabe 5\Quicksort-Median\Debug\Quicksort-Median.exe
+  Quicksort-Median.vcxproj -> Z:\Dokumente\SOSE2017\Praktikum Programmieren\Aufgabe 5\Quicksort-Median\Debug\Quicksort-Median.pdb (Full PDB)
